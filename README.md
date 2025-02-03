@@ -27,7 +27,7 @@
     </section>
   </main>
   <footer>
-    <p>&copy; 2023 Ethiopian Restaurant. All rights reserved.</p>
+    <h5>&copy; 2023 Ethiopian Restaurant. All rights reserved.</h5>
   </footer>
 </body>
 </html>
